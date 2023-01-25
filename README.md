@@ -1,2 +1,1 @@
-# OpenclassroomsProject_03
-OpenclassroomsProject_03
+Salut les gens !
